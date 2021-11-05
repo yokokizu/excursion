@@ -24,7 +24,9 @@ p {
     color: Gray;
     font-size: 21px;
 }
-
+.app{
+    margin-top: 20px;
+}
 .footer {
     text-align: right;
 } 
